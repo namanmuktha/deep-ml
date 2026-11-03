@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T16:19:49.394Z",
+  "generated_at": "2026-11-03T16:19:51.890Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -10,7 +10,7 @@
       "url": "https://www.deep-ml.com/math-problems/7",
       "path": "math/0007-vector-operations",
       "first_solved_at": "2026-09-13T16:37:19.974Z",
-      "last_pushed_at": "2026-09-13T16:37:19.974Z"
+      "last_pushed_at": "2026-11-03T16:19:51.888Z"
     },
     "math:9": {
       "kind": "math",
@@ -21,7 +21,7 @@
       "url": "https://www.deep-ml.com/math-problems/9",
       "path": "math/0009-matrix-basics",
       "first_solved_at": "2026-09-16T03:57:54.342Z",
-      "last_pushed_at": "2026-09-16T03:57:54.342Z"
+      "last_pushed_at": "2026-11-03T16:19:51.888Z"
     },
     "math:10": {
       "kind": "math",
@@ -32,7 +32,7 @@
       "url": "https://www.deep-ml.com/math-problems/10",
       "path": "math/0010-matrix-multiplication",
       "first_solved_at": "2026-09-16T04:00:09.525Z",
-      "last_pushed_at": "2026-09-16T04:00:09.525Z"
+      "last_pushed_at": "2026-11-03T16:19:51.888Z"
     },
     "math:8": {
       "kind": "math",
@@ -43,7 +43,7 @@
       "url": "https://www.deep-ml.com/math-problems/8",
       "path": "math/0008-vector-norms-and-linear-independence",
       "first_solved_at": "2026-09-20T11:34:42.725Z",
-      "last_pushed_at": "2026-09-20T11:34:42.725Z"
+      "last_pushed_at": "2026-11-03T16:19:51.888Z"
     },
     "problem:121": {
       "kind": "problem",
@@ -158,7 +158,7 @@
       "url": "https://www.deep-ml.com/math-problems/1",
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-09-20T15:57:06.965Z",
-      "last_pushed_at": "2026-09-20T15:57:06.965Z"
+      "last_pushed_at": "2026-11-03T16:19:51.888Z"
     },
     "math:12": {
       "kind": "math",
@@ -169,7 +169,7 @@
       "url": "https://www.deep-ml.com/math-problems/12",
       "path": "math/0012-inverse-and-rank",
       "first_solved_at": "2026-10-25T17:23:47.433Z",
-      "last_pushed_at": "2026-10-25T17:23:47.433Z"
+      "last_pushed_at": "2026-11-03T16:19:51.888Z"
     }
   }
 }
